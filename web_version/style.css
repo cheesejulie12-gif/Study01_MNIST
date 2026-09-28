@@ -1,0 +1,6 @@
+body { font-family: sans-serif; text-align: center; margin: 16px; }
+#student { background: #222; color: #fff; padding: 10px; margin: 0 0 16px; }
+#pad { border: 2px solid #333; touch-action: none; max-width: 90vw; height: auto; cursor: crosshair; }
+button { font-size: 1.1rem; padding: 8px 20px; margin: 10px; }
+#result { font-size: 4rem; font-weight: bold; min-height: 5rem; }
+#top { display: inline-block; text-align: left; }
